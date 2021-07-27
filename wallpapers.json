@@ -7,21 +7,25 @@
     {
       "id": 1,
       "name": "Animal",
+      "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/animal/cover",
       "url": "https://github.com/thienthienbui/Wallpaper/tree/main/animal.json"
     },
     {
       "id": 2,
       "name": "Art",
+      "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/animal/cover",
       "url": "https://github.com/thienthienbui/Wallpaper/tree/main/art.json"
     },
     {
       "id": 3,
       "name": "Nature",
+      "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/nature/cover",
       "url": "https://github.com/thienthienbui/Wallpaper/tree/main/nature.json"
     },
     {
       "id": 4,
       "name": "Colorful",
+      "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/cover",
       "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful.json"
     }
   ]
