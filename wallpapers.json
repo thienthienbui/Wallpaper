@@ -1,0 +1,28 @@
+{
+  "latest": "http://ezstudio.vn/wallpaper/latest.json",
+  "popular": "http://ezstudio.vn/wallpaper/popular.json",
+  "best-month": "http://ezstudio.vn/wallpaper/best-month.json",
+  "live-wallpaper": "http://ezstudio.vn/wallpaper/live-wallpaper.json",
+  "categories": [
+    {
+      "id": 1,
+      "name": "Animal",
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/animal.json"
+    },
+    {
+      "id": 2,
+      "name": "Art",
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/art.json"
+    },
+    {
+      "id": 3,
+      "name": "Nature",
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/nature.json"
+    },
+    {
+      "id": 4,
+      "name": "Colorful",
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful.json"
+    }
+  ]
+}
