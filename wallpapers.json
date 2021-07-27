@@ -1,8 +1,8 @@
 {
-  "latest": "http://ezstudio.vn/wallpaper/latest.json",
-  "popular": "http://ezstudio.vn/wallpaper/popular.json",
-  "best-month": "http://ezstudio.vn/wallpaper/best-month.json",
-  "live-wallpaper": "http://ezstudio.vn/wallpaper/live-wallpaper.json",
+  "latest": "https://github.com/thienthienbui/Wallpaper/tree/main/latest.json",
+  "popular": "https://github.com/thienthienbui/Wallpaper/tree/main/popular.json",
+  "best-month": "https://github.com/thienthienbui/Wallpaper/tree/main/best-month.json",
+  "live-wallpaper": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper.json",
   "categories": [
     {
       "id": 1,
