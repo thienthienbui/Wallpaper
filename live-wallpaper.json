@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper/1.mp4"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper/2.mp4"
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper/3.mp4"
+    },
+    {
+      "id": 4,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper/4.mp4"
+    },
+    {
+      "id": 5,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper/5.mp4"
+    },
+    {
+      "id": 6,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper/6.mp4"
+    }
+  ]
+}
