@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "id": 1,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/3.jpg"
+    },
+    {
+      "id": 4,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/4.jpg"
+    },
+    {
+      "id": 5,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/5.jpg"
+    },
+    {
+      "id": 6,
+      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/6.jpg"
+    }
+  ]
+}
