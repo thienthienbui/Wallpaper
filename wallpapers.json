@@ -1,7 +1,7 @@
 {
   "latest": "https://github.com/thienthienbui/Wallpaper/blob/main/latest.json",
   "popular": "https://github.com/thienthienbui/Wallpaper/blob/main/popular.json",
-  "best-month": "https://github.com/thienthienbui/Wallpaper/blob/main/best-month.json",
+  "best-month": "https://github.com/thienthienbui/Wallpaper/blob/main/best.json",
   "live-wallpaper": "https://github.com/thienthienbui/Wallpaper/blob/main/live-wallpaper.json",
   "categories": [
     {
