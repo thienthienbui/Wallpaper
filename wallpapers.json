@@ -1,32 +1,32 @@
 {
-  "latest": "https://github.com/thienthienbui/Wallpaper/tree/main/latest.json",
-  "popular": "https://github.com/thienthienbui/Wallpaper/tree/main/popular.json",
-  "best-month": "https://github.com/thienthienbui/Wallpaper/tree/main/best-month.json",
-  "live-wallpaper": "https://github.com/thienthienbui/Wallpaper/tree/main/live-wallpaper.json",
+  "latest": "https://github.com/thienthienbui/Wallpaper/blob/main/latest.json",
+  "popular": "https://github.com/thienthienbui/Wallpaper/blob/main/popular.json",
+  "best-month": "https://github.com/thienthienbui/Wallpaper/blob/main/best-month.json",
+  "live-wallpaper": "https://github.com/thienthienbui/Wallpaper/blob/main/live-wallpaper.json",
   "categories": [
     {
       "id": 1,
       "name": "Animal",
       "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/animal/cover.jpg",
-      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/animal.json"
+      "url": "https://github.com/thienthienbui/Wallpaper/blob/main/animal.json"
     },
     {
       "id": 2,
       "name": "Art",
       "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/animal/cover.jpg",
-      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/art.json"
+      "url": "https://github.com/thienthienbui/Wallpaper/blob/main/art.json"
     },
     {
       "id": 3,
       "name": "Nature",
       "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/nature/cover.jpg",
-      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/nature.json"
+      "url": "https://github.com/thienthienbui/Wallpaper/blob/main/nature.json"
     },
     {
       "id": 4,
       "name": "Colorful",
       "cover": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful/cover.jpg",
-      "url": "https://github.com/thienthienbui/Wallpaper/tree/main/colorful.json"
+      "url": "https://github.com/thienthienbui/Wallpaper/blob/main/colorful.json"
     }
   ]
 }
