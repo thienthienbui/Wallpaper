@@ -5,25 +5,25 @@
   "live-wallpaper": "live-wallpaper.json",
   "categories": [
     {
-      "id": 1,
+      "id": 5,
       "name": "Animal",
       "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/animal/cover.jpg",
       "url": "animal.json"
     },
     {
-      "id": 2,
+      "id": 6,
       "name": "Art",
       "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/animal/cover.jpg",
       "url": "art.json"
     },
     {
-      "id": 3,
+      "id": 7,
       "name": "Nature",
       "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/nature/cover.jpg",
       "url": "nature.json"
     },
     {
-      "id": 4,
+      "id": 8,
       "name": "Colorful",
       "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/colorful/cover.jpg",
       "url": "colorful.json"

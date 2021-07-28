@@ -2,26 +2,32 @@
   "wallpapers": [
     {
       "id": 1,
+      "categoryId": 3,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/best/1.jpg"
     },
     {
       "id": 2,
+      "categoryId": 3,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/best/2.jpg"
     },
     {
       "id": 3,
+      "categoryId": 3,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/best/3.jpg"
     },
     {
       "id": 4,
+      "categoryId": 3,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/best/4.jpg"
     },
     {
       "id": 5,
+      "categoryId": 3,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/best/5.jpg"
     },
     {
       "id": 6,
+      "categoryId": 3,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/best/6.jpg"
     }
   ]

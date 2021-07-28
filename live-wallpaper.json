@@ -2,26 +2,32 @@
   "wallpapers": [
     {
       "id": 1,
+      "categoryId": 4,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/live-wallpaper/1.mp4"
     },
     {
       "id": 2,
+      "categoryId": 4,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/live-wallpaper/2.mp4"
     },
     {
       "id": 3,
+      "categoryId": 4,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/live-wallpaper/3.mp4"
     },
     {
       "id": 4,
+      "categoryId": 4,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/live-wallpaper/4.mp4"
     },
     {
       "id": 5,
+      "categoryId": 4,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/live-wallpaper/5.mp4"
     },
     {
       "id": 6,
+      "categoryId": 4,
       "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/live-wallpaper/6.mp4"
     }
   ]
