@@ -7,25 +7,25 @@
     {
       "id": 5,
       "name": "Animal",
-      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/animal/cover.jpg",
+      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/animal/cover.jpg",
       "url": "animal.json"
     },
     {
       "id": 6,
       "name": "Art",
-      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/animal/cover.jpg",
+      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/animal/cover.jpg",
       "url": "art.json"
     },
     {
       "id": 7,
       "name": "Nature",
-      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/nature/cover.jpg",
+      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/nature/cover.jpg",
       "url": "nature.json"
     },
     {
       "id": 8,
       "name": "Colorful",
-      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/tree/main/colorful/cover.jpg",
+      "cover": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/cover.jpg",
       "url": "colorful.json"
     }
   ]
