@@ -3,32 +3,38 @@
     {
       "id": 1,
       "categoryId": 8,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/1.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/1.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/thumbnail/1.jpg"
     },
     {
       "id": 2,
       "categoryId": 8,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/2.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/2.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/thumbnail/2.jpg"
     },
     {
       "id": 3,
       "categoryId": 8,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/3.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/3.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/thumbnail/3.jpg"
     },
     {
       "id": 4,
       "categoryId": 8,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/4.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/4.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/thumbnail/4.jpg"
     },
     {
       "id": 5,
       "categoryId": 8,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/5.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/5.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/thumbnail/5.jpg"
     },
     {
       "id": 6,
       "categoryId": 8,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/6.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/6.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/colorful/thumbnail/6.jpg"
     }
   ]
 }

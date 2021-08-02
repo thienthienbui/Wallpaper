@@ -3,32 +3,38 @@
     {
       "id": 1,
       "categoryId": 1,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/1.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/1.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/thumbnail/1.jpg"
     },
     {
       "id": 2,
       "categoryId": 1,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/2.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/2.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/thumbnail/2.jpg"
     },
     {
       "id": 3,
       "categoryId": 1,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/3.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/3.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/thumbnail/3.jpg"
     },
     {
       "id": 4,
       "categoryId": 1,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/4.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/4.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/thumbnail/4.jpg"
     },
     {
       "id": 5,
       "categoryId": 1,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/5.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/5.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/thumbnail/5.jpg"
     },
     {
       "id": 6,
       "categoryId": 1,
-      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/6.jpg"
+      "url": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/6.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/thienthienbui/Wallpaper/main/latest/thumbnail/6.jpg"
     }
   ]
 }
